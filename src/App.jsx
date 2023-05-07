@@ -40,8 +40,9 @@ const App = () => {
       const res = await fetch(
         "https://threed-portfolio-web-api.onrender.com/youtube"
       );
+      console.log(res);
       const data = await res.json();
-
+      console.log(data);
       setYoutubeVids(data);
       setLoadingVids(false);
     }
