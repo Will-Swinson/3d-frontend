@@ -174,8 +174,7 @@ const testimonials = [
     name: "John Kluse",
     designation: "Full Stack Software Engineer",
     company: "Galvanize",
-    image:
-      "https://media.licdn.com/dms/image/D4E03AQFOvPPTYpDlQA/profile-displayphoto-shrink_200_200/0/1682952898288?e=1689206400&v=beta&t=OMprqXtzKsrcQQA7iEIntRchEsvTHdW2WSvo_POsR-o",
+    image: "https://i.imgur.com/BFofUK1.jpg",
   },
   {
     testimonial:
@@ -183,8 +182,7 @@ const testimonials = [
     name: "Phillip Mejia",
     designation: "Full Stack Software Engineer",
     company: "Galvanize",
-    image:
-      "https://media.licdn.com/dms/image/D5603AQGX5eU8pmowSQ/profile-displayphoto-shrink_200_200/0/1666140793700?e=1689206400&v=beta&t=czWZbtBSn0NPbs836Bl2S3G-VYUPUdtZWcqbqJbg00Y",
+    image: "https://i.imgur.com/6ULTJqR.jpg",
   },
   {
     testimonial:
@@ -192,8 +190,7 @@ const testimonials = [
     name: "Joseph Carmeli",
     designation: "US Army Veteran | Full Stack Engineer",
     company: "Galvanize",
-    image:
-      "https://media.licdn.com/dms/image/C5603AQEocJ_CwJoD6g/profile-displayphoto-shrink_200_200/0/1664245429334?e=1689206400&v=beta&t=A368PJOrx3W-CzwIfcUWJhxqRa2xWKj8DbrCNvx6CG8",
+    image: "https://i.imgur.com/kJ6tUjP.jpg",
   },
 ];
 
