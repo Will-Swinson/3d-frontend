@@ -170,27 +170,30 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Will has an unstoppable passion for learning new things and helping other team members.",
+    name: "John Kluse",
+    designation: "Full Stack Software Engineer",
+    company: "Galvanize",
+    image:
+      "https://media.licdn.com/dms/image/D4E03AQFOvPPTYpDlQA/profile-displayphoto-shrink_200_200/0/1682952898288?e=1689206400&v=beta&t=OMprqXtzKsrcQQA7iEIntRchEsvTHdW2WSvo_POsR-o",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "In my time of knowing him, it is clear to see that Will is a highly skilled and experienced software engineer with expertise in a variety of programming languages and technologies, including but not limited to JavaScript, React, Node.js, HTML, CSS, PostgreSQL, MySQL, and more.",
+    name: "Phillip Mejia",
+    designation: "Full Stack Software Engineer",
+    company: "Galvanize",
+    image:
+      "https://media.licdn.com/dms/image/D5603AQGX5eU8pmowSQ/profile-displayphoto-shrink_200_200/0/1666140793700?e=1689206400&v=beta&t=czWZbtBSn0NPbs836Bl2S3G-VYUPUdtZWcqbqJbg00Y",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Overall, I would highly recommend Will Swinson for any role related to software development. He is a talented, driven, and dedicated individual who would be an asset to any team.",
+    name: "Joseph Carmeli",
+    designation: "US Army Veteran | Full Stack Engineer",
+    company: "Galvanize",
+    image:
+      "https://media.licdn.com/dms/image/C5603AQEocJ_CwJoD6g/profile-displayphoto-shrink_200_200/0/1664245429334?e=1689206400&v=beta&t=A368PJOrx3W-CzwIfcUWJhxqRa2xWKj8DbrCNvx6CG8",
   },
 ];
 
